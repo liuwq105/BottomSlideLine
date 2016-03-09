@@ -5,4 +5,4 @@
 
 ps: 代码只提供思路
 
-![image](http://github.com/Zhaoss/BottomSlideLine/1.png)
+![image](http://github.com/Zhaoss/BottomSlideLine/raw/master/1.png)
