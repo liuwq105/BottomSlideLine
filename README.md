@@ -5,4 +5,5 @@
 
 ps: 代码只提供思路
 
-![image](https://raw.githubusercontent.com/Zhaoss/BottomSlideLine/master/1.jpg)
+![image](https://github.com/Zhaoss/BottomSlideLine/blob/master/image/1.jpg?raw=true)
+![image](https://github.com/Zhaoss/BottomSlideLine/blob/master/image/2.jpg?raw=true)
